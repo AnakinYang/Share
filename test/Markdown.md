@@ -8,4 +8,4 @@ $x^{2} + y_{0}^{2}$
 ## End
 :smile
 `Emoji`
-==This all~==
+==This all==
